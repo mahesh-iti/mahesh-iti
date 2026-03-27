@@ -40,7 +40,6 @@ I am a results-driven professional specializing in **AI/ML & Analytics Accelerat
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh-iti&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
